@@ -1,9 +1,6 @@
 package com.niit.techno.mockitodemo;
 
-/**
- * Hello world!
- *
- */
+
 public class HelloWorld 
 {
     public static void main( String[] args )
